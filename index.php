@@ -159,3 +159,6 @@ header('Content-type: text/html;charset=UTF-8'); ?>
 
 <p>This would try to determine the icon of <code>http://example.com/blog</code>
 and would return 404 if not found, and 302 to the new location if found.</p>
+
+<p>This code is available on
+<a href="https://github.com/scoates/favicon">GitHub</a></p>
